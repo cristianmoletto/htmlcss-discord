@@ -494,3 +494,15 @@ footer h4 {
     fill: white;
     margin-right: 5px;
 }
+
+.top-border {
+    border-top: 1px solid rgb(114,136,218);
+}
+
+.pt-15 {
+    padding-top: 15px;
+}
+
+.pb-40 {
+    padding-bottom: 40px;
+}
